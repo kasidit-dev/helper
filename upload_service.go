@@ -1,4 +1,4 @@
-package halper
+package helper
 
 import (
 	"io"
